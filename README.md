@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 Lucas 👋</h1>
+<h1 align="center">你好，我是 Soren 👋</h1>
 
 <p align="center"><strong>自动化工具 · 跨平台应用 · 个人效率</strong></p>
 <p align="center">把重复的事情交给工具，把日常的想法做成应用。</p>
